@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+​
+body {
+  
+  padding: 20px;
+  font-family: Arial;
+}
+.main {
+  height: 99px;
+  max-width: 1000px;
+  margin: auto;
+}
+​
+h1 {
+  text-align: center;
+  font-size: 50px;
+  word-break: break-all;
+  
+}
+h1{
+    color: orangered;
+}
+
+h2{
+
+    color: rgb(31, 17, 226);
+}
+
+h3{
+    color: blue;
+}
